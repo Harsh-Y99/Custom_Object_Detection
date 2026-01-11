@@ -137,11 +137,11 @@ Images are stored in the assets/ directory.
 ## Training Visualizations
 
 <p align="center">
-  <img src="Outputs/train_batch2.jpg" width="700">
+  <img src="train_batch2.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="Outputs/labels.jpg" width="700">
+  <img src="labels.jpg" width="700">
 </p>
 
 ---
